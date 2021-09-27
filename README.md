@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngCaioMonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngCaioMonteiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ <div><img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" height="100px"></div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
