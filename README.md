@@ -9,6 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngCaioMonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngCaioMonteiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+ <div>
+  <!-- Profile vist counter -->
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=EngCaioMonteiro&color=blueviolet&label=profile+views" alt="profile vist counter" /> </p>  
+  <a href="https://github.com/EngCaioMonteiro">
+ <div>
  
  <div><img align="right" alt="Animação-Olá" src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" height="100px"></div>
   
@@ -25,7 +31,12 @@
   
   ##
  
-<div> 
+<div>
+<!-- grafico -->
+<a href="https://github.com/EngCaioMonteiro/github-readme-activity-graph"><img alt="Caio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EngCaioMonteiro&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<div>
+ 
+ <div> 
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
